@@ -1,0 +1,10 @@
+.login {
+    text-align: center;
+    padding: 20px;
+  }
+  .login form input {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+  }
+  
